@@ -1,0 +1,17 @@
+import React from 'react'
+
+const Main = () => {
+  return (
+    <>
+        <div className='container'>
+            <div className='p-5 text-center bg-light-dark rounded'>
+                <h1 className='text-light'>Stock Prediction Portal</h1>
+                <p className='text-light lead'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum tempore alias animi quam iusto! Assumenda numquam animi, ex qui aut recusandae esse atque accusantium, doloremque laborum vero quia totam quae.</p>
+                <a className='btn btn-info me-2' href="">Login</a>
+            </div>
+        </div>
+    </>
+  )
+}
+
+export default Main
